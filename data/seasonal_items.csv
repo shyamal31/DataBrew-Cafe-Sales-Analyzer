@@ -1,0 +1,11 @@
+,ID,product_id,product_name,start_date,end_date
+0,sw0,P56,Pumpkin Latte,2023-10-31,2023-11-06
+1,sw1,P57,Mint Mocha,2023-12-31,2024-01-06
+2,sw2,P58,Strawberry Mocha Shaker,2023-02-14,2023-02-20
+3,sw3,P62,Oatmeal Cookie,2023-04-19,2023-06-10
+4,sw4,P63,Red Velvet Muffin,2023-02-14,2023-02-20
+5,sw5,P65,Paneer Butter,2023-11-01,2023-11-07
+6,sw6,P59,Pumpkin Espresso Shaker,2023-10-31,2023-11-06
+7,sw7,P60,Mint Mocha Cooler,2023-12-31,2024-01-06
+8,sw8,P61,Coffee of the Year,2023-02-05,2023-02-11
+9,sw9,P64,White Chocolate Cookie,2023-06-14,2023-08-03

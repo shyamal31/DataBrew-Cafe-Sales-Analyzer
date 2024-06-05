@@ -1,0 +1,66 @@
+,product_id,product_name,category,cost_price,selling_price,shelf_life
+0,P1,Espresso,Coffee,1.5,2.67,0
+1,P2,Macchiato,Coffee,2.0,2.3,0
+2,P3,Cortado,Coffee,2.5,4.94,0
+3,P4,Cappuccino,Coffee,3.0,5.84,0
+4,P5,Latte,Coffee,3.5,6.7,0
+5,P6,Mocha,Coffee,4.0,7.26,0
+6,P7,Americano,Coffee,2.5,4.75,0
+7,P8,Flat White,Coffee,3.0,5.38,0
+8,P9,Affogato,Coffee,4.5,6.7,0
+9,P10,Irish Coffee,Coffee,5.0,9.17,0
+10,P11,Iced Espresso,Coffee,2.0,3.9,0
+11,P12,Iced Latte,Coffee,3.0,5.03,0
+12,P13,Iced Mocha,Coffee,3.5,5.06,0
+13,P14,Iced Americano,Coffee,2.5,4.9,0
+14,P15,Cold Brew,Coffee,3.0,5.38,0
+15,P16,Nitro Cold Brew,Coffee,3.5,5.92,0
+16,P17,Frappuccino,Coffee,4.0,5.4,0
+17,P18,Coffee Milkshake,Coffee,4.5,7.46,0
+18,P19,Coffee Soda,Coffee,3.5,6.24,0
+19,P20,Vietnamese Iced Coffee,Coffee,3.5,6.55,0
+20,P21,Croissant,Bakery,1.0,1.56,2
+21,P22,Chocolate Croissant,Bakery,1.5,2.24,2
+22,P23,Almond Croissant,Bakery,1.5,2.44,2
+23,P24,Baguette,Bakery,2.0,3.48,2
+24,P25,Scone,Bakery,1.5,2.4,2
+25,P26,Blueberry Scone,Bakery,2.0,3.48,2
+26,P27,Cinnamon Roll,Bakery,2.5,3.07,2
+27,P28,Muffin,Bakery,1.5,2.44,2
+28,P29,Chocolate Chip Muffin,Bakery,2.0,2.97,2
+29,P30,Banana Nut Muffin,Bakery,2.0,2.42,2
+30,P31,Danish,Bakery,2.0,3.12,2
+31,P32,Cheese Danish,Bakery,2.5,4.6,2
+32,P33,Pain au Chocolat,Bakery,1.5,2.39,2
+33,P34,Pain aux Raisins,Bakery,2.0,3.13,2
+34,P35,Biscotti,Bakery,1.0,1.76,2
+35,P36,Almond Biscotti,Bakery,1.5,2.59,2
+36,P37,Brownie,Bakery,2.0,3.92,2
+37,P38,Fudge Brownie,Bakery,2.5,2.89,2
+38,P39,Apple Turnover,Bakery,1.5,1.97,2
+39,P40,Cherry Turnover,Bakery,2.0,2.42,2
+40,P41,Granola Bar,Packed_Food,0.75,0.83,4
+41,P42,Yogurt Parfait,Packed_Food,1.0,1.27,4
+42,P43,Bag of Chips,Packed_Food,1.0,1.13,2
+43,P44,Fruit Cup,Packed_Food,1.25,2.13,5
+44,P45,Protein Bar,Packed_Food,1.0,1.12,4
+45,P46,Trail Mix,Packed_Food,1.25,2.47,2
+46,P47,Pretzels,Packed_Food,1.0,1.25,5
+47,P48,Cheese and Crackers,Packed_Food,1.5,2.89,2
+48,P49,Vegetable Sticks with Dip,Packed_Food,1.5,1.81,5
+49,P50,Sandwich (pre-packaged),Packed_Food,2.0,3.64,3
+50,P51,Coca-Cola,Soda,0.75,1.03,60
+51,P52,Pepsi,Soda,0.75,1.47,60
+52,P53,Sprite,Soda,0.75,1.23,60
+53,P54,Fanta,Soda,0.75,0.89,60
+54,P55,Dr. Pepper,Soda,0.75,1.37,60
+55,P56,Pumpkin Latte,Coffee,4.0,5.01,0
+56,P57,Mint Mocha,Coffee,4.2,7.73,0
+57,P58,Strawberry Mocha Shaker,Coffee,4.5,6.55,0
+58,P59,Pumpkin Espresso Shaker,Coffee,4.2,7.01,0
+59,P60,Mint Mocha Cooler,Coffee,5.29,5.92,0
+60,P61,Coffee of the Year,Coffee,6.3,8.36,0
+61,P62,Oatmeal Cookie,Bakery,2.79,4.18,2
+62,P63,Red Velvet Muffin,Bakery,2.5,4.36,2
+63,P64,White Chocolate Cookie,Bakery,3.29,5.57,2
+64,P65,Paneer Butter,Packed_Food,9.59,10.61,2
